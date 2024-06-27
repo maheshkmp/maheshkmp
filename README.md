@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I deploy scalable cloud solutions**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
 <p align="center">
 <a href="http://www.linkedin.com/in/mahesh-pererakm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh perera" height="30" width="40" /></a>
