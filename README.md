@@ -77,12 +77,11 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkmp&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
- 
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshkmp&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-   
-</td>
+<img src="https://github-readme-stats.vercel.app/api?username=maheshkmp&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+ <br></br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkmp&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+  
+   </td>
 <td width="50%" align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshkmp&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="maheshkmp"/>
@@ -91,10 +90,14 @@
   
 </tr>
 </table>
+<br>
 
 ---
-
+<br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p>
+
+<br>
+<br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
