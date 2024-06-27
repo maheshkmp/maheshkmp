@@ -1,14 +1,18 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <h1 align="center"><b>Hi , I'm Mahesh Perera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Team+Player,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+My+Profile..&hearts;++;Self-taught+Full-Stack+Developer,;Computer+Science+Student,;Team+Player,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
-<h3 align="center">A passionate backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate backend developer from Sri Lanka</h3> <br>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p> <br>
+
 
 - 🔭 I’m currently working on [LMS project](https://github.com/maheshkmp/LMS)
 
@@ -19,6 +23,8 @@
 - 📫 How to reach me **maheshpererakm@gmail.com**
 
 - ⚡ Fun fact **I deploy scalable cloud solutions**
+
+
 
 <h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 
