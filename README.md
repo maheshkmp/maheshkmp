@@ -41,8 +41,8 @@
 
  <h3 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="center">
-<a href="http://www.linkedin.com/in/mahesh-pererakm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh perera" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maheshperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maheshperera" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/mahesh-pererakm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59575502/127343867-952c0121-c592-435d-8085-dc54b6ea6517.png" alt="mahesh perera" height="60" width="60" /></a>
+<a href="https://www.leetcode.com/maheshperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maheshperera" height="50" width="50" /></a>
 </p>
 
 ---
