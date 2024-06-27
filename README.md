@@ -73,13 +73,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maheshkmp&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkmp&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkmp&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshkmp&count_private=true&show_icons=trueline_height=21&theme=github_dark">
+   
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maheshkmp&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkmp&theme=holi-theme">
   
   </td>
   
