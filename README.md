@@ -45,7 +45,11 @@
 <a href="https://www.leetcode.com/maheshperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maheshperera" height="50" width="50" /></a>
 </p>
 
+<br>
+
 ---
+
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a>
@@ -64,12 +68,15 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> 
  </p>
 
+ <br>
+
 <!--
  <a target="_blank"><img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 -->
 ---
 
 
+<br>
 <br>
 <h3 align="center">My Statistics:</h3>
 <p align="center">
