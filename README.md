@@ -73,7 +73,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkmp&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshkmp&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="maheshkmp"/>
   <br></br>
   <img src="https://github-readme-stats.vercel.app/api?username=maheshkmp&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
    
@@ -87,16 +87,10 @@
 </tr>
 </table>
 
-
-
-
-
 ---
 
-
-
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p>
+
+
 
 
