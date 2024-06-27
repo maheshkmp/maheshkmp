@@ -8,7 +8,7 @@
 </p>
 
 
-<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3> <br>
+<h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3> <br>
 
 
 
