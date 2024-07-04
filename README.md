@@ -80,6 +80,9 @@
 
 <br>
 <br>
+
+
+<!--
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -99,11 +102,19 @@
   
 </tr>
 </table>
+-->
+
+## By the way here are some of my statistics 🚀
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=maheshkmp&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshkmp&theme=tokyonight" alt="mystreak"/>
+![Mahesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkmp&theme=tokyonight&layout=compact)
+
+
 <br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshkmp" alt="maheshkmp" /></a> </p>
 
 <br>
 <br>
