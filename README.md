@@ -306,7 +306,7 @@
 
 ![Medium Cards](https://github-readme-social-article.vercel.app/medium/@tonynguyenit)
 -->
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/maheshkmp/LMS">
@@ -329,3 +329,4 @@
 </br>
 <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 
+-->
