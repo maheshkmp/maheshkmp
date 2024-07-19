@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **maheshpererakm@gmail.com**
 
-- ⚡ Fun fact **I deploy scalable cloud solutions**
+- ⚡ Fun fact **I love Automation**
 
 </td>
 <td width="50%" align="center">
