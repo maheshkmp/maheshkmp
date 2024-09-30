@@ -212,6 +212,7 @@
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-npm-white?logo=npm&logoColor=CB3837&style=for-the-badge" alt="npm"/></a>
 <a href="https://yarnpkg.com/" target="_blank"><img src="https://img.shields.io/badge/-yarn-white?logo=yarn&logoColor=2C8EBB&style=for-the-badge" alt="yarn"/></a>
 
+
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/-wordpress-white?logo=wordpress&logoColor=21759B&style=for-the-badge" alt="wordpress"/></a>
 <a href="https://www.opencart.com/" target="_blank"><img src="https://img.shields.io/badge/-opencart-white?logo=opencart&logoColor=21759B&style=for-the-badge" alt="opencart"/></a>
 <a href="https://www.algolia.com/" target="_blank"><img src="https://img.shields.io/badge/-algolia*-white?logo=algolia&logoColor=5468FF&style=for-the-badge" alt="algolia"/></a>
