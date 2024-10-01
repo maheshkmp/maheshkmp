@@ -266,7 +266,6 @@
 
 <!--
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Repository Overview :
 
 <a href="https://github.com/hrugved06/Playing-TRex-game-using-facial-recognition">
