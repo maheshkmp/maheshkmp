@@ -240,6 +240,7 @@
 
 <h3>Cloud & Hosting</h3>
 
+
 <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-amazon_aws-white?logo=amazonaws&logoColor=232F3E&style=for-the-badge" alt="amazonaws"/></a>
 <a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" alt="cpanel"/></a>
 <a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/></a>
