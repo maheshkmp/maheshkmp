@@ -20,7 +20,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [FastAPI Project](https://github.com/maheshkmp/FastAPI-project-01)
+- 🔭 I’m currently working on [FastAPI Project](https://github.com/maheshkmp/chemistry-partner-fastapi)
 
 - 🌱 I’m currently learning **Django and Cloud Computing**
 
