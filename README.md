@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Django and Cloud Computing**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Deployments**
 
 - 📫 How to reach me **maheshpererakm@gmail.com**
 
