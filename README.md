@@ -24,7 +24,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [FastAPI Project](https://github.com/maheshkmp/ecommerce-frontend-react)
+- 🔭 I’m currently working on [FastAPI-Github Container Registry Project](https://github.com/maheshkmp/fastapi_automationWithGHCR)
 
 - 🌱 I’m currently learning **Django and Cloud Computing**
 
