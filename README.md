@@ -71,18 +71,9 @@ I'm a Computer Science graduate who specializes in the infrastructure layer — 
 
 ---
 
-### 📊 GitHub Stats
+### 🔗 Portfolio
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maheshkmp&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahesh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshkmp&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=maheshkmp&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
-</p>
-
-> ⚠️ If the cards above appear blank, it's usually the vercel.app stats service being rate-limited or temporarily down — it's a known third-party issue, not something wrong with your profile. It typically resolves on refresh within a few minutes. If it stays broken, you can self-host your own instance (see the [github-readme-stats repo](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own)) for a permanent fix.
+**[maheshkmp.github.io/mahesh-portfolio](https://maheshkmp.github.io/mahesh-portfolio/)** — see full project write-ups, live demos, and case studies.
 
 ---
 
@@ -95,15 +86,13 @@ I'm a Computer Science graduate who specializes in the infrastructure layer — 
 | **CourseFlow** | Linux, Nginx, PM2 | Faster API responses via internal service calls |
 | **Rathagala** | AWS S3, PostgreSQL, MongoDB | Secure pre-signed URL uploads for a marketplace app |
 
-*(Update the links above to point to the actual repos when you're ready — placeholder links removed for now.)*
-
 ---
 
 ### 🎓 Background
 
 - 🎓 **BSc Information Technology & Computer Science** — PSB University, Cambodia (2023–2026)
 - 🔐 **Diploma in Cyber Security & Ethical Hacking** — SITC Campus, Sri Lanka
-- 📜 **Certifications:** Docker (KodeKloud) · AWS ECS (KodeKloud)
+- 📜 **Certifications:** Docker (KodeKloud) · AWS ECS (KodeKloud) · Cloud Computing Fundamentals (IBM) · Postman API Fundamentals – Student Expert
 
 ---
 
