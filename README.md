@@ -2,10 +2,6 @@
 <h3 align="center">DevOps Engineer | Cloud Infrastructure · CI/CD Automation · Linux Systems</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshkmp&theme=github-dark" alt="Mahesh's GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
 <a href="https://readme-typing-svg.herokuapp.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00C2FF&size=22&center=true&vCenter=true&width=650&lines=Automating+cloud+infrastructure+on+AWS;Building+CI%2FCD+pipelines+that+actually+ship;Hardening+Linux+servers+in+production;10+min+deploys+%E2%86%92+under+2+min" alt="Typing SVG" />
 </a>
