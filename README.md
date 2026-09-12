@@ -19,15 +19,58 @@
 
 I'm a Computer Science graduate who specializes in the infrastructure layer — provisioning cloud resources, automating deployments, and keeping Linux servers secure and running. I care about systems that are **fast, reproducible, and don't break at 2am**.
 
-**Recent impact:**
-- 🔧 Cut deployment time from **~10 minutes to under 2 minutes** with a GitHub Actions → EC2 CI/CD pipeline
-- 🔒 Responded to and remediated a **production server intrusion** — hardened Nginx, SSH, and firewall configs
-- 🐳 Containerized applications and shipped them via Docker → GHCR → VPS, with zero manual deployment steps
-- ☸️ Validated container orchestration workflows locally using Kubernetes (Minikube)
+<br/>
 
-- 🌱 Currently learning: **Kubernetes (production-grade)** and **Cloud Computing**
-- 💬 Ask me about: **CI/CD pipelines, Linux server hardening, and AWS deployments**
-- 📫 Reach me: **maheshpererakm@gmail.com**
+### Recent Impact & Side Quests 🕴️
+
+<a href="https://github.com/maheshkmp">
+  <img src="https://ghlogo.heathdutton.workers.dev/maheshkmp/Myunivrs?ratio=3:2" alt="CI/CD Pipeline" width="180" align="left">
+</a>
+
+**[GitHub Actions → EC2 CI/CD Pipeline](https://github.com/maheshkmp)**
+
+Cut deployment time from ~10 minutes to under 2 minutes with automated GitHub Actions workflow to AWS EC2.
+
+<br clear="left"/>
+<br/>
+
+<a href="https://github.com/maheshkmp">
+  <img src="https://img.shields.io/badge/Production-Security_Hardening-red?style=for-the-badge&logo=shield" alt="Server Hardening" width="180" align="left">
+</a>
+
+**[Production Server Intrusion Remediation](https://github.com/maheshkmp)**
+
+Responded to and remediated a production server intrusion — hardened Nginx, SSH, and firewall configurations.
+
+<br clear="left"/>
+<br/>
+
+<a href="https://github.com/maheshkmp">
+  <img src="https://ghlogo.heathdutton.workers.dev/maheshkmp/Traveny.com?ratio=3:2" alt="Docker Deployment" width="180" align="left">
+</a>
+
+**[Automated Docker → GHCR → VPS Delivery](https://github.com/maheshkmp)**
+
+Containerized applications and shipped them with zero manual deployment steps using GHCR registry to production VPS.
+
+<br clear="left"/>
+<br/>
+
+<a href="https://github.com/maheshkmp">
+  <img src="https://img.shields.io/badge/Kubernetes-Minikube_Workflows-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes Workflows" width="180" align="left">
+</a>
+
+**[Local Kubernetes Orchestration](https://github.com/maheshkmp)**
+
+Validated container orchestration workflows and local deployment patterns using Kubernetes (Minikube).
+
+<br clear="left"/>
+
+---
+
+- 🌱 **Currently learning:** Kubernetes (production-grade) and Cloud Computing
+- 💬 **Ask me about:** CI/CD pipelines, Linux server hardening, and AWS deployments
+- 📫 **Reach me:** [maheshpererakm@gmail.com](mailto:maheshpererakm@gmail.com)
 
 ---
 
